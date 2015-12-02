@@ -1,0 +1,5040 @@
+********************************************************************************
+[2015-07-21 23:55:03 CEST] 2.Alerte :
+Division by zero
+in /home/oscar/www/hylacore/src/core/FrontController/FrontController.php on line 19
+Informations Vars : 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 19
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 2
+[1] => Division by zero
+[2] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[3] => 19
+[4] => 
+2. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 70
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+3. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 116
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-21 23:55:03 CEST
+[1] => 2
+[2] => Alerte
+[3] => Division by zero
+[4] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[5] => 19
+[6] => [7] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 31
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-21 23:56:05 CEST] 2.Alerte :
+Division by zero
+in /home/oscar/www/hylacore/src/core/FrontController/FrontController.php on line 19
+Informations Vars : 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 19
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 2
+[1] => Division by zero
+[2] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[3] => 19
+[4] => 
+2. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 70
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+3. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 116
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-21 23:56:05 CEST
+[1] => 2
+[2] => Alerte
+[3] => Division by zero
+[4] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[5] => 19
+[6] => [7] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 31
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-22 00:02:19 CEST] 2.Alerte :
+Division by zero
+in /home/oscar/www/hylacore/src/core/FrontController/FrontController.php on line 19
+Informations Vars : 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 19
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 2
+[1] => Division by zero
+[2] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[3] => 19
+[4] => 
+********************************************************************************
+[2015-07-22 00:03:16 CEST] 2.Alerte :
+Division by zero
+in /home/oscar/www/hylacore/src/core/FrontController/FrontController.php on line 19
+Informations Vars : 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 19
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 2
+[1] => Division by zero
+[2] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[3] => 19
+[4] => 
+********************************************************************************
+[2015-07-22 00:05:33 CEST] 2.Alerte :
+Division by zero
+in /home/oscar/www/hylacore/src/core/FrontController/FrontController.php on line 19
+Informations Vars : 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 19
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 2
+[1] => Division by zero
+[2] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[3] => 19
+[4] => 
+********************************************************************************
+[2015-07-22 00:05:58 CEST] 2.Alerte :
+Division by zero
+in /home/oscar/www/hylacore/src/core/FrontController/FrontController.php on line 19
+Informations Vars : 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 19
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 2
+[1] => Division by zero
+[2] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[3] => 19
+[4] => 
+2. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 70
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+3. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 116
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-22 00:05:58 CEST
+[1] => 2
+[2] => Alerte
+[3] => Division by zero
+[4] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[5] => 19
+[6] => [7] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 31
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-22 00:08:09 CEST] 2.Alerte :
+Division by zero
+in /home/oscar/www/hylacore/src/core/FrontController/FrontController.php on line 19
+Informations Vars : 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+********************************************************************************
+[2015-07-25 00:36:33 CEST] 2.Alerte :
+syntax error, unexpected '=' in /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini on line 4
+
+in /home/oscar/www/hylacore/src/core/Config/BaseConfig.php on line 87
+Informations Vars : 
+[path] => app/example/etc/routing/routing.ini
+[fieldName] => route
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 18
+Method : Hyla\Router\Router::loadRoutes()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 29
+Method : Hyla\Config\BaseConfig::add()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+4. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 32
+Method : Hyla\Config\BaseConfig::loadFile()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+5. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 87
+Arguments : 
+[0] => /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini
+[1] => 1
+
+********************************************************************************
+[2015-07-25 00:39:52 CEST] 2.Alerte :
+syntax error, unexpected '(' in /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini on line 5
+
+in /home/oscar/www/hylacore/src/core/Config/BaseConfig.php on line 87
+Informations Vars : 
+[path] => app/example/etc/routing/routing.ini
+[fieldName] => route
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 18
+Method : Hyla\Router\Router::loadRoutes()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 29
+Method : Hyla\Config\BaseConfig::add()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+4. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 32
+Method : Hyla\Config\BaseConfig::loadFile()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+5. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 87
+Arguments : 
+[0] => /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini
+[1] => 1
+
+********************************************************************************
+[2015-07-25 00:41:54 CEST] 2.Alerte :
+syntax error, unexpected '(' in /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini on line 5
+
+in /home/oscar/www/hylacore/src/core/Config/BaseConfig.php on line 87
+Informations Vars : 
+[path] => app/example/etc/routing/routing.ini
+[fieldName] => route
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 18
+Method : Hyla\Router\Router::loadRoutes()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 29
+Method : Hyla\Config\BaseConfig::add()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+4. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 32
+Method : Hyla\Config\BaseConfig::loadFile()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+5. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 87
+Arguments : 
+[0] => /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini
+[1] => 1
+
+7. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+8. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 152
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-25 00:41:54 CEST
+[1] => 2
+[2] => Alerte
+[3] => syntax error, unexpected '(' in /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini on line 5
+[4] => /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+[5] => 87
+[6] => [path] => app/example/etc/routing/routing.ini
+    [fieldName] => route
+[7] => 
+
+9. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-25 00:42:16 CEST] 2.Alerte :
+syntax error, unexpected '(' in /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini on line 5
+
+in /home/oscar/www/hylacore/src/core/Config/BaseConfig.php on line 87
+Informations Vars : 
+[path] => app/example/etc/routing/routing.ini
+[fieldName] => route
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 18
+Method : Hyla\Router\Router::loadRoutes()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 29
+Method : Hyla\Config\BaseConfig::add()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+4. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 32
+Method : Hyla\Config\BaseConfig::loadFile()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+5. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 87
+Arguments : 
+[0] => /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini
+[1] => 1
+
+7. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+8. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 152
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-25 00:42:16 CEST
+[1] => 2
+[2] => Alerte
+[3] => syntax error, unexpected '(' in /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini on line 5
+[4] => /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+[5] => 87
+[6] => [path] => app/example/etc/routing/routing.ini
+    [fieldName] => route
+[7] => 
+
+9. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-25 00:43:09 CEST] 2.Alerte :
+syntax error, unexpected '(' in /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini on line 5
+
+in /home/oscar/www/hylacore/src/core/Config/BaseConfig.php on line 87
+Informations Vars : 
+[path] => app/example/etc/routing/routing.ini
+[fieldName] => route
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 8
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 18
+Method : Hyla\Router\Router::loadRoutes()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 29
+Method : Hyla\Config\BaseConfig::add()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+4. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 32
+Method : Hyla\Config\BaseConfig::loadFile()
+Arguments : 
+[0] => app/example/etc/routing/routing.ini
+[1] => route
+
+5. /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+Line : 87
+Arguments : 
+[0] => /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini
+[1] => 1
+
+7. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+8. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-25 00:43:09 CEST
+[1] => 2
+[2] => Alerte
+[3] => syntax error, unexpected '(' in /home/oscar/www/hylacore/src/core/Config/../../../app/example/etc/routing/routing.ini on line 5
+[4] => /home/oscar/www/hylacore/src/core/Config/BaseConfig.php
+[5] => 87
+[6] => [path] => app/example/etc/routing/routing.ini
+    [fieldName] => route
+[7] => 
+
+9. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-25 02:34:08 CEST] 2.Alerte :
+preg_match_all(): Unknown modifier 'g'
+in /home/oscar/www/hylacore/src/core/FrontController/FrontController.php on line 22
+Informations Vars : 
+[matches] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 10
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 22
+Arguments : 
+[0] => /[A-Z][a-z]*/g
+[1] => CamelCaseChiant
+[2] => 
+
+3. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-25 02:34:08 CEST
+[1] => 2
+[2] => Alerte
+[3] => preg_match_all(): Unknown modifier 'g'
+[4] => /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+[5] => 22
+[6] => [matches] => 
+[7] => 
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 17:48:24 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.19942900 1437925704
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 10
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.19942900 1437925704
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 17:48:24 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.19942900 1437925704
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 17:48:24 CEST] 8.Note :
+Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 85
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.19942900 1437925704
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 10
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 85
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.19942900 1437925704
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 17:48:24 CEST
+[1] => 8
+[2] => Note
+[3] => Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 85
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.19942900 1437925704
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 17:48:24 CEST] 1.Erreur :
+Maximum function nesting level of '100' reached, aborting!
+in /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php on line 169
+Informations Vars : 
+
+StackTrace : 1. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 103
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 1
+[1] => Maximum function nesting level of '100' reached, aborting!
+[2] => /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+[3] => 169
+[4] => 
+
+2. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+3. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 17:48:24 CEST
+[1] => 1
+[2] => Erreur
+[3] => Maximum function nesting level of '100' reached, aborting!
+[4] => /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+[5] => 169
+[6] => 
+[7] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 17:48:25 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.18628100 1437925705
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 10
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.18628100 1437925705
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 17:48:25 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.18628100 1437925705
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 17:48:25 CEST] 8.Note :
+Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 85
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.18628100 1437925705
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 10
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 85
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.18628100 1437925705
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 17:48:25 CEST
+[1] => 8
+[2] => Note
+[3] => Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 85
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.18628100 1437925705
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 17:48:25 CEST] 1.Erreur :
+Maximum function nesting level of '100' reached, aborting!
+in /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php on line 169
+Informations Vars : 
+
+StackTrace : 1. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 103
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 1
+[1] => Maximum function nesting level of '100' reached, aborting!
+[2] => /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+[3] => 169
+[4] => 
+
+2. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+3. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 17:48:25 CEST
+[1] => 1
+[2] => Erreur
+[3] => Maximum function nesting level of '100' reached, aborting!
+[4] => /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+[5] => 169
+[6] => 
+[7] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 17:48:25 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.24898100 1437925705
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 10
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.24898100 1437925705
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 17:48:25 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.24898100 1437925705
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 17:48:25 CEST] 8.Note :
+Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 85
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.24898100 1437925705
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 10
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 85
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.24898100 1437925705
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 17:48:25 CEST
+[1] => 8
+[2] => Note
+[3] => Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 85
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.24898100 1437925705
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 17:48:25 CEST] 1.Erreur :
+Maximum function nesting level of '100' reached, aborting!
+in /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php on line 169
+Informations Vars : 
+
+StackTrace : 1. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 103
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 1
+[1] => Maximum function nesting level of '100' reached, aborting!
+[2] => /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+[3] => 169
+[4] => 
+
+2. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+3. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 17:48:25 CEST
+[1] => 1
+[2] => Erreur
+[3] => Maximum function nesting level of '100' reached, aborting!
+[4] => /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+[5] => 169
+[6] => 
+[7] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 22:26:05 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.79663400 1437942365
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 11
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.79663400 1437942365
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 22:26:05 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.79663400 1437942365
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 22:26:05 CEST] 8.Note :
+Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 85
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.79663400 1437942365
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 11
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 20
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 85
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.79663400 1437942365
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 22:26:05 CEST
+[1] => 8
+[2] => Note
+[3] => Use of undefined constant ARRAY_FILTER_USE_BOTH - assumed 'ARRAY_FILTER_USE_BOTH'
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 85
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.79663400 1437942365
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-07-26 22:26:05 CEST] 1.Erreur :
+Maximum function nesting level of '100' reached, aborting!
+in /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php on line 169
+Informations Vars : 
+
+StackTrace : 1. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 103
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 1
+[1] => Maximum function nesting level of '100' reached, aborting!
+[2] => /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+[3] => 169
+[4] => 
+
+2. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+3. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-07-26 22:26:05 CEST
+[1] => 1
+[2] => Erreur
+[3] => Maximum function nesting level of '100' reached, aborting!
+[4] => /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+[5] => 169
+[6] => 
+[7] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 16:16:54 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.85811300 1439734614
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 11
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.85811300 1439734614
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 16:16:54 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.85811300 1439734614
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 16:16:54 CEST] 8.Note :
+Undefined variable: routeInfos
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 104
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.85811300 1439734614
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+[results] => [setName] => 1
+[pattern] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 11
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 104
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeInfos
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 104
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.85811300 1439734614
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 16:16:54 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeInfos
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 104
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.85811300 1439734614
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 16:18:09 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.34613800 1439734689
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 7
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.34613800 1439734689
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 16:18:09 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.34613800 1439734689
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 16:18:09 CEST] 8.Note :
+Undefined variable: routeInfos
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 104
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.34613800 1439734689
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+[results] => [setName] => 1
+[pattern] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 7
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 104
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeInfos
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 104
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.34613800 1439734689
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 16:18:09 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeInfos
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 104
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.34613800 1439734689
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 16:18:42 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.49559600 1439734722
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 7
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.49559600 1439734722
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 16:18:42 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.49559600 1439734722
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 16:18:42 CEST] 8.Note :
+Undefined variable: routeInfos
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 104
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.49559600 1439734722
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+[results] => [setName] => 1
+[pattern] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 7
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 104
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeInfos
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 104
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.49559600 1439734722
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 84
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 151
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 16:18:42 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeInfos
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 104
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.49559600 1439734722
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 16:21:11 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.40992200 1439734871
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 7
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.40992200 1439734871
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 152
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 16:21:11 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.40992200 1439734871
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 16:21:11 CEST] 8.Note :
+Undefined variable: routeInfos
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 104
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.40992200 1439734871
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+[results] => [setName] => 1
+[pattern] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 7
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 104
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeInfos
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 104
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.40992200 1439734871
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 152
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 16:21:11 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeInfos
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 104
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.40992200 1439734871
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 17:06:06 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.38781200 1439737566
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 9
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.38781200 1439737566
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 159
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 17:06:06 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.38781200 1439737566
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 17:06:06 CEST] 8.Note :
+Undefined variable: routeInfos
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 104
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.38781200 1439737566
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+[results] => [setName] => 1
+[pattern] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 9
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 104
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeInfos
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 104
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.38781200 1439737566
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 159
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 17:06:06 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeInfos
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 104
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.38781200 1439737566
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 17:10:42 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.53613100 1439737842
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 9
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.53613100 1439737842
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 159
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 17:10:42 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.53613100 1439737842
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 17:10:42 CEST] 8.Note :
+Undefined variable: routeInfos
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 104
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.53613100 1439737842
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route3
+[routeTest] => [pattern] => /([a-z])/test
+    [http_method] => POST
+    [parameters] => [id] => ([0-9]+)
+        [name] => ?([a-z]+)?
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route3
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+[argv] => [isFound] => 
+[results] => [setName] => 1
+[pattern] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 9
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 104
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeInfos
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 104
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.53613100 1439737842
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 85
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 159
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 17:10:42 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeInfos
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 104
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.53613100 1439737842
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route3
+    [routeTest] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route3
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 18:56:11 CEST] 8.Note :
+Undefined variable: routeUri
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 73
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route4] => [pattern] => example test
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.47719800 1439744171
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+    [3] => ^(?<route4>example test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route4] => [pattern] => example test
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route4
+[routeTest] => [pattern] => example test
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route4
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$|^(?<route4>example test)$#
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 9
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 73
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeUri
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 73
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route4] => [pattern] => example test
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.47719800 1439744171
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+        [3] => ^(?<route4>example test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route4] => [pattern] => example test
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route4
+    [routeTest] => [pattern] => example test
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route4
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$|^(?<route4>example test)$#
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 89
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 163
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 18:56:11 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeUri
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 73
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route4] => [pattern] => example test
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.47719800 1439744171
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+        [3] => ^(?<route4>example test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route4] => [pattern] => example test
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route4
+    [routeTest] => [pattern] => example test
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route4
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$|^(?<route4>example test)$#
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
+********************************************************************************
+[2015-08-16 18:56:11 CEST] 8.Note :
+Undefined variable: routeInfos
+in /home/oscar/www/hylacore/src/core/Router/Router.php on line 104
+Informations Vars : 
+[routing] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route4] => [pattern] => example test
+        [class] => Example\Controllers\Home
+        [method] => show
+[test] => 0.47719800 1439744171
+[routes] => [0] => ^(?<route1>/)$
+    [1] => ^(?<route2>/test-1)$
+    [2] => ^(?<route3>/([a-z])/test)$
+    [3] => ^(?<route4>example test)$
+[routingFormatted] => [route1] => [pattern] => /
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route2] => [pattern] => /test-1
+        [http_method] => GET
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route3] => [pattern] => /([a-z])/test
+        [http_method] => POST
+        [parameters] => [id] => ([0-9]+)
+            [name] => ?([a-z]+)?
+        [class] => Example\Controllers\Home
+        [method] => show
+    [route4] => [pattern] => example test
+        [class] => Example\Controllers\Home
+        [method] => show
+[routeName] => route4
+[routeTest] => [pattern] => example test
+    [class] => Example\Controllers\Home
+    [method] => show
+[routeNameFormatted] => route4
+[testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$|^(?<route4>example test)$#
+[argv] => [isFound] => 
+[results] => [setName] => 1
+[pattern] => 
+StackTrace : 0. /home/oscar/www/hylacore/www/index.php
+Line : 9
+Method : Hyla\FrontController\FrontController::init()
+
+1. /home/oscar/www/hylacore/src/core/FrontController/FrontController.php
+Line : 21
+Method : Hyla\Router\Router::init()
+
+2. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 19
+Method : Hyla\Router\Router::matchRoute()
+
+3. /home/oscar/www/hylacore/src/core/Router/Router.php
+Line : 104
+Method : Hyla\ErrorHandler\ErrorHandler::handleError()
+Arguments : 
+[0] => 8
+[1] => Undefined variable: routeInfos
+[2] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[3] => 104
+[4] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route4] => [pattern] => example test
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.47719800 1439744171
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+        [3] => ^(?<route4>example test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route4] => [pattern] => example test
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route4
+    [routeTest] => [pattern] => example test
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route4
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$|^(?<route4>example test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+
+4. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 89
+Method : Hyla\ErrorHandler\ErrorHandler::saveToLOG()
+
+5. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorHandler.php
+Line : 163
+Method : Hyla\ErrorHandler\ErrorMessage::log()
+Arguments : 
+[0] => 2015-08-16 18:56:11 CEST
+[1] => 8
+[2] => Note
+[3] => Undefined variable: routeInfos
+[4] => /home/oscar/www/hylacore/src/core/Router/Router.php
+[5] => 104
+[6] => [routing] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route4] => [pattern] => example test
+            [class] => Example\Controllers\Home
+            [method] => show
+    [test] => 0.47719800 1439744171
+    [routes] => [0] => ^(?<route1>/)$
+        [1] => ^(?<route2>/test-1)$
+        [2] => ^(?<route3>/([a-z])/test)$
+        [3] => ^(?<route4>example test)$
+    [routingFormatted] => [route1] => [pattern] => /
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route2] => [pattern] => /test-1
+            [http_method] => GET
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route3] => [pattern] => /([a-z])/test
+            [http_method] => POST
+            [parameters] => [id] => ([0-9]+)
+                [name] => ?([a-z]+)?
+            [class] => Example\Controllers\Home
+            [method] => show
+        [route4] => [pattern] => example test
+            [class] => Example\Controllers\Home
+            [method] => show
+    [routeName] => route4
+    [routeTest] => [pattern] => example test
+        [class] => Example\Controllers\Home
+        [method] => show
+    [routeNameFormatted] => route4
+    [testPattern] => #^(?<route1>/)$|^(?<route2>/test-1)$|^(?<route3>/([a-z])/test)$|^(?<route4>example test)$#
+    [argv] =>     [isFound] => 
+    [results] =>     [setName] => 1
+    [pattern] => 
+[7] => 
+
+6. /home/oscar/www/hylacore/src/core/ErrorHandler/ErrorMessage.php
+Line : 42
+Method : Hyla\ErrorHandler\ErrorMessage::getStackTrace()
+Arguments : 
+[0] => 1
+
