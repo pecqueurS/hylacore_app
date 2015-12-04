@@ -3,8 +3,10 @@ namespace Example\Controllers;
 
 
 use Example\Models\Test;
+use Hyla\Config\Conf;
 use Hyla\Controller\Controller;
 use Hyla\Db\Db;
+use Hyla\Forms\Forms;
 use Hyla\Orm\Unit;
 
 /**
@@ -12,7 +14,13 @@ use Hyla\Orm\Unit;
  * @package Example\Controllers
  */
 class Home extends Controller {
-    public function show($id, $name = null)
+
+    /**
+     * @param $id
+     * @param null $name
+     * @return array|null
+     */
+    public function db($id, $name = null)
     {
         $test = new Test();
         $select = $test->select();
@@ -42,5 +50,22 @@ class Home extends Controller {
         $this->addResponse('name', $name);
 
         return $this->getReponse();
+    }
+
+    /**
+     * @param $id
+     * @param null $name
+     */
+    public function forms($id, $name = null)
+    {
+        var_dump(Conf::getAll());
+
+        $signIn = new Forms('SignIn'); /* Creation du formulaire d'après le json */
+        if (!$signIn->isValid()) { /* Vérification du formulaire en fonction des contraintes */
+            $response['formSignIn'] = $signIn->render(); /* Création du HTML à afficher */
+        } else {
+
+
+        }
     }
 }
