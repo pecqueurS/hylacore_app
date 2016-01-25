@@ -56,16 +56,24 @@ class Home extends Controller {
      * @param $id
      * @param null $name
      */
-    public function forms($id, $name = null)
+    public function forms($login = null, $pwd = null)
     {
-        var_dump(Conf::getAll());
+        //var_dump(Conf::getAll());
+        $response = array();
+        $signIn = new Forms('SignIn', Forms::TYPE_GET); /* Creation du formulaire d'après le json */
+        var_dump($signIn);
+        $render = $signIn->valid();
+        if ($render === true) { /* Vérification du formulaire en fonction des contraintes */
+            var_dump('---------------------------------------------------');
+            var_dump($login, $signIn->getValue('login'));
+            var_dump($pwd, $signIn->getValue('pwd'));
 
-        $signIn = new Forms('SignIn'); /* Creation du formulaire d'après le json */
-        if (!$signIn->isValid()) { /* Vérification du formulaire en fonction des contraintes */
-            $response['formSignIn'] = $signIn->render(); /* Création du HTML à afficher */
         } else {
+            $response['formSignIn'] = $render; /* Création du HTML à afficher */
 
 
         }
+
+        return $response;
     }
 }
