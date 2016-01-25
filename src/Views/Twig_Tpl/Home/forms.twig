@@ -9,6 +9,16 @@
 </head>
 
 <body class="skin-black fixed">
-hello world !!!!!
+echo world !!!!!
+
+
+<form>
+    {{  formSignIn.login|raw }}
+
+    {{ form('SignIn', 'pwd') }}
+
+    <input type="submit" value="VALIDER">
+</form>
+
 </body>
 </html>
