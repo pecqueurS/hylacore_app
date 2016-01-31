@@ -8,6 +8,8 @@ use Hyla\Controller\Controller;
 use Hyla\Db\Db;
 use Hyla\Forms\Forms;
 use Hyla\Orm\Unit;
+use Hyla\Server\Server;
+use HylaComponents\Mails\Mails;
 
 /**
  * Class Home
@@ -58,22 +60,33 @@ class Home extends Controller {
      */
     public function forms($login = null, $pwd = null)
     {
-        //var_dump(Conf::getAll());
         $response = array();
         $signIn = new Forms('SignIn', Forms::TYPE_GET); /* Creation du formulaire d'après le json */
         var_dump($signIn);
-        $htmlRenderOrTrue = $signIn->validate();
-        if ($htmlRenderOrTrue === true) { /* Vérification du formulaire en fonction des contraintes */
+        $htmlRenderOrTrue = $signIn->validate();/* Vérification du formulaire en fonction des contraintes */
+        if ($htmlRenderOrTrue === true) {
             var_dump('---------------------------------------------------');
             var_dump($login, $signIn->getValue('login'));
             var_dump($pwd, $signIn->getValue('pwd'));
 
         } else {
             $response['formSignIn'] = $htmlRenderOrTrue; /* Création du HTML à afficher (non obligatoire) */
-
-
         }
 
         return $response;
+    }
+
+    public function mails()
+    {
+        var_dump(Conf::getAll());
+
+
+        $destinataire = 'stephane.pecqueur@gmail.com';
+        $sujet = 'test';
+        $message = array(array('test' => 'Nouveau titre'), 'main');
+        $headers = array('ADS', Conf::get('emails.emails.webmaster'));
+
+        Mails::init('html')->sendMail($destinataire,$sujet,$message,$headers);
+echo 'message sent';
     }
 }
